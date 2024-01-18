@@ -4,3 +4,4 @@
 
 Day 1: [Introduction](https://learn.microsoft.com/en-us/training/paths/introduction-data-analytics-azure/)
 
+Day 2: [Govern Data](https://learn.microsoft.com/en-us/training/paths/govern-data-across-enterprise/)
